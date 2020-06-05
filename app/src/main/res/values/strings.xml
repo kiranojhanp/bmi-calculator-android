@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI and EMI calculator</string>
+    <string name="app_title">BMI Calculator</string>
+    <string name="secondary_title">Enter weight (kg) and height (m)</string>
+    <string name="calculate">Calculate</string>
+</resources>
